@@ -1,0 +1,11 @@
+.gallery {
+    width: 100%;
+    border: 2px solid white;
+    border-radius: 10px;
+    transition: opacity 1s, border 1s;
+}
+
+.gallery:hover {
+    opacity: 0.7;
+    border: 2px solid red;
+}
