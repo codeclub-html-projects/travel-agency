@@ -22,6 +22,12 @@ body {
     background-image: url("../img/bg1.png");
     background-size: cover;
     padding-left: 25%;
+    color: cadetblue;
+    text-shadow: 2px 2px whitesmoke;
+}
+
+#logo small {
+    text-shadow: 0 0 whitesmoke;
 }
 
 footer {
